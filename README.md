@@ -21,7 +21,7 @@ Follow the complete tutorial here:
 
 ## Tech Stack
 
-- Next.js 15.3.3
+- Next.js 15.3.4
 - Tailwind CSS 4
 - Cloudflare R2
 - AWS SDK v3
